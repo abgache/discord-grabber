@@ -1,2 +1,2 @@
-# discord-grabber
-Simple discord data grabber
+# Discord Data grabber
+```pip install -r requirements.txt```
