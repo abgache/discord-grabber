@@ -1,0 +1,8 @@
+base64
+json
+os
+re
+requests
+pycryptodome
+discord.py
+pywin32
