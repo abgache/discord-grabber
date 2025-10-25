@@ -1,5 +1,11 @@
 # Discord Data grabber
 Just a simple discord grabber
+--------------------
+
+# Disclaimer
+> Information and code provided on this repository are for educational purposes only. The creator is no way responsible for any direct or indirect damage caused due to the misusage of the information or code. Everything you do, you are doing at your own risk and responsibility.
+
+--------------------
 ## Virus Total
 **14/62** : [Virus Total URL](https://www.virustotal.com/gui/file/9488b10e7e7996fb40e3328f9884d94beeeef75a54839079f98b2126bce36b72)
 ## Output
